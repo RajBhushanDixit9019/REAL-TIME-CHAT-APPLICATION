@@ -12,6 +12,6 @@
 
 *MENTOR*: NEELA SANTOSH
 
-## I have created a dynamic quiz web page which loads the quiz questions dynamically and I hav used HTML, CSS and JavaScript for this web page.
+## I have created real-time chat application
 
 #OUTPUT
